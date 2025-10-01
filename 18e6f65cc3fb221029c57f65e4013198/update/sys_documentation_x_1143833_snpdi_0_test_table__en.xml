@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Test Table" language="en" table="x_1143833_snpdi_0_test_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Test Table</label>
+            <language>en</language>
+            <name>x_1143833_snpdi_0_test_table</name>
+            <plural>Test Tables</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-01 14:11:30</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Test Table</sys_name>
+            <sys_package display_value="SNPDI to GITHUB" source="x_1143833_snpdi_0">18e6f65cc3fb221029c57f65e4013198</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="SNPDI to GITHUB">18e6f65cc3fb221029c57f65e4013198</sys_scope>
+            <sys_update_name>sys_documentation_x_1143833_snpdi_0_test_table__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-01 14:11:30</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
